@@ -1,0 +1,99 @@
+.SUP{
+    background-color: #ff0000;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    text-decoration: aliceblue;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+
+.MAJ{
+    background-color: #22ba2a;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.table {
+    width: 100%;
+  }
+  
+th {
+    height: 70px;
+    text-decoration: underline;
+}
+
+
+body{
+    background: url(https://img.freepik.com/vecteurs-libre/concept-medical-hexagonal-propre-blanc_1017-29801.jpg?w=2000);
+}
+
+.nav {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+  }
+  
+  
+  .nav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  .nav a:hover {
+    background: rgb(255, 255, 255);
+    color: black;
+  }
+  
+ 
+  .main {
+    margin-top: 30px; 
+  }
+.recherche{
+  border-radius: 1px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.boutonrecherche:hover{
+  color: rgb(0, 0, 0);
+  background-color: #ffffff;
+  border-radius: 22px;
+
+}
+
+.boutonrecherche{
+  border-radius: 23px;
+
+}
+
+.zonerecherche{
+  outline-offset: -2px;
+  webkit-appearance: none;
+  border-radius: 12px;
+  width: 280px;
+  text-align: center;
+  
+}
+
+.add{
+  background-color: rgb(37, 132, 37);
+  border-radius: 12px;
+}
+
+
+
